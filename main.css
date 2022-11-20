@@ -1,0 +1,16 @@
+h3{
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 30px 30px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(160, 160, 160);
+    line-height: 3;
+    text-align: center;
+}
+h1{
+    color:white;
+}
